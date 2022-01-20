@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71f0fbc7-45ec-41d3-ab78-e870dbdecd91": {
+      "ProjectGuid": "71f0fbc7-45ec-41d3-ab78-e870dbdecd91",
+      "DisplayName": "Final_Odev",
+      "ColorIndex": 0
+    },
+    "b9d67fb7-f2e6-4891-844d-f7e3b851deb9": {
+      "ProjectGuid": "b9d67fb7-f2e6-4891-844d-f7e3b851deb9",
+      "DisplayName": "MLModel1_ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
